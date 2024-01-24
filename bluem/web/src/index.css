@@ -11,3 +11,8 @@
 /**
  * END --- SETUP TAILWINDCSS EDIT
  */
+
+ #scheduler {
+  width: 90%;
+  height: 650px;
+}
