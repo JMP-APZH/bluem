@@ -17,7 +17,11 @@ const HomePage = () => {
       <p>
           My default route is named <code>calendar</code>, link to me with `
           <Link to={routes.calendar()}>Calendar</Link>`
-        </p>
+      </p>
+      <p>
+        My default route is named <code>scheduler</code>, link to me with `
+        <Link to={routes.scheduler()}>Scheduler</Link>`
+      </p>
     </>
   )
 }

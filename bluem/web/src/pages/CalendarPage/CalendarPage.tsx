@@ -367,7 +367,7 @@ const CalendarPage = () => {
   return (
     <>
       <Metadata title="Calendar" description="Calendar page" />
-      <div className="w-screen h-screen bg-black text-white">
+      <div className="bg-black text-white">
         <div className="p-2">
 
         <h1>CalendarPage</h1>
