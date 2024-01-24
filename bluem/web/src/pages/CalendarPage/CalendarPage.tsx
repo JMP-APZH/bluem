@@ -1,7 +1,7 @@
 import { Link, routes } from '@redwoodjs/router'
 import { Metadata } from '@redwoodjs/web'
 
-import 'smart-webcomponents-react/source/styles/smart.default.css';
+// import 'smart-webcomponents-react/source/styles/smart.default.css';
 import './CalendarPage.css';
 import React, { useEffect, useRef, useState } from "react";
 import ReactDOM from 'react-dom/client';
